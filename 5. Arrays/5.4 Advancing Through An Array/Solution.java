@@ -1,4 +1,4 @@
-public class Solution{
+public class Solution {
     public static boolean canReachEnd(List<Integer> maxAdvanceSteps) {
         int furthestReachSoFar = 0, lastIndex = maxAdvanceSteps.size() - 1;
 
